@@ -1,6 +1,3 @@
-# Date_Time
-A simple web page displaying the current date and time in a user-friendly format. It uses HTML, CSS, and JavaScript to continuously update the time display. An interactive UI with hover effects for a smooth user experience.
-
 # Date and Time Display Web Page
 
 This simple web page displays the current date and time in a user-readable format. It continuously updates the displayed date and time using JavaScript's `setInterval` function.
